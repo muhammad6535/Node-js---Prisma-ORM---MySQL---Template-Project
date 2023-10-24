@@ -1,5 +1,5 @@
 {
-  "name": "prisma",
+  "name": "nodejs_prisma_mysql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
